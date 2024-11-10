@@ -1,0 +1,117 @@
+[04-Nov-2024 00:45:48 Europe/Berlin] Datos POST recibidos: Array
+(
+    [id] => 
+    [fechaIngreso] => 2024-11-02T00:45
+    [paciente] => mARCEL
+    [medico] => CCCC
+    [especialidad] => Cardiología
+    [actividad] => Consulta
+    [diagnostico] => jjajajaj
+    [alta] => 2024-11-29T00:45
+)
+
+[04-Nov-2024 00:45:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::prepare() in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php on line 31
+[04-Nov-2024 00:45:49 Europe/Berlin] Datos POST recibidos: Array
+(
+    [id] => 
+    [fechaIngreso] => 2024-11-02T00:45
+    [paciente] => mARCEL
+    [medico] => CCCC
+    [especialidad] => Cardiología
+    [actividad] => Consulta
+    [diagnostico] => jjajajaj
+    [alta] => 2024-11-29T00:45
+)
+
+[04-Nov-2024 00:45:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::prepare() in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php on line 31
+[04-Nov-2024 00:45:49 Europe/Berlin] Datos POST recibidos: Array
+(
+    [id] => 
+    [fechaIngreso] => 2024-11-02T00:45
+    [paciente] => mARCEL
+    [medico] => CCCC
+    [especialidad] => Cardiología
+    [actividad] => Consulta
+    [diagnostico] => jjajajaj
+    [alta] => 2024-11-29T00:45
+)
+
+[04-Nov-2024 00:45:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::prepare() in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php on line 31
+[04-Nov-2024 00:45:50 Europe/Berlin] Datos POST recibidos: Array
+(
+    [id] => 
+    [fechaIngreso] => 2024-11-02T00:45
+    [paciente] => mARCEL
+    [medico] => CCCC
+    [especialidad] => Cardiología
+    [actividad] => Consulta
+    [diagnostico] => jjajajaj
+    [alta] => 2024-11-29T00:45
+)
+
+[04-Nov-2024 00:45:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Conexion::prepare() in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php on line 31
+2024-11-04 00:54:02 Response: []
+2024-11-04 00:54:19 Response: []
+[04-Nov-2024 00:54:37 Europe/Berlin] Datos POST recibidos: Array
+(
+    [id] => 
+    [fechaIngreso] => 2024-11-04T00:54
+    [paciente] => mARCEL
+    [medico] => CCCC
+    [especialidad] => Cardiología
+    [actividad] => Consulta
+    [diagnostico] => kMAKNA K
+    [alta] => 2024-11-14T00:54
+)
+
+[04-Nov-2024 00:54:37 Europe/Berlin] PHP Warning:  Undefined variable $conexion in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php on line 31
+[04-Nov-2024 00:54:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php on line 31
+[04-Nov-2024 00:54:42 Europe/Berlin] Datos POST recibidos: Array
+(
+    [id] => 
+    [fechaIngreso] => 2024-11-04T00:54
+    [paciente] => mARCEL
+    [medico] => CCCC
+    [especialidad] => Cardiología
+    [actividad] => Consulta
+    [diagnostico] => kMAKNA K
+    [alta] => 2024-11-14T00:54
+)
+
+[04-Nov-2024 00:54:42 Europe/Berlin] PHP Warning:  Undefined variable $conexion in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php on line 31
+[04-Nov-2024 00:54:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php on line 31
+[04-Nov-2024 01:01:30 Europe/Berlin] Datos POST recibidos: Array
+(
+    [id] => 
+    [fechaIngreso] => 2024-11-04T01:01
+    [paciente] => mARCEL
+    [medico] => CCCC
+    [especialidad] => Medicina General
+    [actividad] => Emergencia
+    [diagnostico] => allalalal
+    [alta] => 2024-11-06T01:01
+)
+
+[04-Nov-2024 01:01:30 Europe/Berlin] PHP Warning:  Undefined variable $conexion in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php on line 31
+[04-Nov-2024 01:01:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Administrador\Desktop\paginas java\guardar_atencion.php on line 31
